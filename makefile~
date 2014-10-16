@@ -1,0 +1,3 @@
+____________
+graficafinal.jpg:	Solucion.dat
+	python plots.py
